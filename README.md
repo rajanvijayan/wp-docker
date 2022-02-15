@@ -1,5 +1,8 @@
 # WP Docker!
 
+[![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level) [![Release Version](https://img.shields.io/github/release/rajanvijayan/wp-docker.svg)](https://github.com/rajanvijayan/wp-docker/releases/latest) [![MIT License](https://img.shields.io/github/license/rajanvijayan/wp-docker.svg)](https://github.com/rajanvijayan/wp-docker/blob/master/LICENSE)
+
+
 WP Local Docker is an easy to use Docker based local development environment for WordPress development that works on Mac, Windows, and Linux. [Reference](https://hub.docker.com/_/wordpress)
 
 ## Requirements
@@ -20,5 +23,5 @@ WP Docker requires  [docker](https://www.docker.com/),  [docker-compose](https:/
 [Run your browser](http://localhost:1000)
 
 ## Credits 
-[10up Docker](https://github.com/10up/wp-local-docker-v2)
+[10up Docker](https://github.com/rajanvijayan/wp-docker)
 [WP Docker Image](https://hub.docker.com/_/wordpress)
