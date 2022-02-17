@@ -23,5 +23,5 @@ WP Docker requires  [docker](https://www.docker.com/),  [docker-compose](https:/
 [Run your browser](http://localhost:1000)
 
 ## Credits 
-[10up Docker](https://github.com/rajanvijayan/wp-docker)
-[WP Docker Image](https://hub.docker.com/_/wordpress)
+ - [10up Docker](https://github.com/10up/wp-local-docker-v2)
+ - [WP Docker Image](https://hub.docker.com/_/wordpress)
